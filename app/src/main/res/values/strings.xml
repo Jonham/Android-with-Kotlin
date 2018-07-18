@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="quiz_text">Loading Quiz</string>
+    <string name="button_true_title">True</string>
+    <string name="button_false_title">False</string>
+    <string name="toast_text_correct">Correct!</string>
+    <string name="toast_text_wrong">Wrong!</string>
+</resources>
